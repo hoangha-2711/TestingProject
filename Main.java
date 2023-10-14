@@ -1,6 +1,6 @@
 public String condition(int h, int t) 
 {
-    if (170 <= h && h <= 190) 
+    if (h >= 170 && h <= 190) 
     {
         if (18 <= t && t <= 21) 
         {
