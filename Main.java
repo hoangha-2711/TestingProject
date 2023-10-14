@@ -13,6 +13,6 @@ public String condition(int h, int t)
     }
     else 
     {
-        return "valid";
+        return "invalid";
     }
 }
